@@ -1,0 +1,151 @@
+activity_id,activity_date,activity_type,topic,location_id,participants_count,public_event,year,month,month_name,municipality,city,district,location_type
+1,2025-01-01,Public Event,Local Government,5,26,Yes,2025,1,January,Pervouralsk,Pervouralsk,,Community Center
+2,2025-01-03,Meeting,Entrepreneurship,7,20,No,2025,1,January,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+3,2025-01-07,Public Event,Social Policy,3,38,Yes,2025,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+4,2025-01-10,Government Interaction,Local Government,3,37,No,2025,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+5,2025-01-11,Survey,Transport,8,8,No,2025,1,January,Serov,Serov,,Public Space
+6,2025-01-12,Community Outreach,Gender Equality,6,25,Yes,2025,1,January,Nizhny Tagil,Nizhny Tagil,,Public Space
+7,2025-01-16,Meeting,Housing,4,5,No,2025,1,January,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+8,2025-01-19,Public Event,Education,3,21,Yes,2025,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+9,2025-01-20,Meeting,Entrepreneurship,7,25,No,2025,1,January,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+10,2025-01-23,Community Outreach,Local Government,4,20,Yes,2025,1,January,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+11,2025-01-31,Community Outreach,Economic Policy,1,32,Yes,2025,1,January,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+12,2025-02-03,Public Event,Economic Policy,7,41,Yes,2025,2,February,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+13,2025-02-09,Survey,Economic Policy,3,22,No,2025,2,February,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+14,2025-02-16,Campaign Activity,Gender Equality,4,15,Yes,2025,2,February,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+15,2025-02-24,Government Interaction,Entrepreneurship,6,14,No,2025,2,February,Nizhny Tagil,Nizhny Tagil,,Public Space
+16,2025-02-25,Meeting,Transport,1,24,No,2025,2,February,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+17,2025-02-26,Survey,Social Policy,1,7,No,2025,2,February,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+18,2025-03-05,Community Outreach,Housing,8,22,Yes,2025,3,March,Serov,Serov,,Public Space
+19,2025-03-10,Public Event,Gender Equality,10,16,Yes,2025,3,March,Asbest,Asbest,,Public Space
+20,2025-03-11,Meeting,Youth Policy,6,34,No,2025,3,March,Nizhny Tagil,Nizhny Tagil,,Public Space
+21,2025-03-12,Public Event,Education,1,19,Yes,2025,3,March,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+22,2025-03-14,Campaign Activity,Social Policy,6,21,Yes,2025,3,March,Nizhny Tagil,Nizhny Tagil,,Public Space
+23,2025-03-15,Survey,Entrepreneurship,6,12,No,2025,3,March,Nizhny Tagil,Nizhny Tagil,,Public Space
+24,2025-03-17,Campaign Activity,Housing,1,28,Yes,2025,3,March,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+25,2025-03-18,Campaign Activity,Economic Policy,10,24,Yes,2025,3,March,Asbest,Asbest,,Public Space
+26,2025-03-19,Meeting,Education,5,22,No,2025,3,March,Pervouralsk,Pervouralsk,,Community Center
+27,2025-03-20,Meeting,Entrepreneurship,1,13,No,2025,3,March,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+28,2025-03-21,Government Interaction,Social Policy,10,35,No,2025,3,March,Asbest,Asbest,,Public Space
+29,2025-03-24,Educational Event,Transport,5,14,No,2025,3,March,Pervouralsk,Pervouralsk,,Community Center
+30,2025-03-25,Campaign Activity,Social Policy,2,16,Yes,2025,3,March,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+31,2025-03-26,Public Event,Economic Policy,10,5,Yes,2025,3,March,Asbest,Asbest,,Public Space
+32,2025-03-28,Survey,Education,7,25,No,2025,3,March,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+33,2025-03-31,Media Activity,Economic Policy,5,28,Yes,2025,3,March,Pervouralsk,Pervouralsk,,Community Center
+34,2025-04-01,Educational Event,Economic Policy,1,20,No,2025,4,April,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+35,2025-04-04,Public Event,Housing,3,16,Yes,2025,4,April,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+36,2025-04-12,Survey,Housing,7,34,No,2025,4,April,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+37,2025-04-15,Campaign Activity,Education,1,25,Yes,2025,4,April,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+38,2025-04-28,Government Interaction,Education,4,39,No,2025,4,April,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+39,2025-05-05,Survey,Economic Policy,6,9,No,2025,5,May,Nizhny Tagil,Nizhny Tagil,,Public Space
+40,2025-05-12,Public Event,Housing,10,16,Yes,2025,5,May,Asbest,Asbest,,Public Space
+41,2025-05-13,Community Outreach,Housing,5,8,Yes,2025,5,May,Pervouralsk,Pervouralsk,,Community Center
+42,2025-05-18,Meeting,Social Policy,3,33,No,2025,5,May,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+43,2025-05-21,Campaign Activity,Education,4,23,Yes,2025,5,May,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+44,2025-05-29,Community Outreach,Entrepreneurship,4,32,Yes,2025,5,May,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+45,2025-05-30,Campaign Activity,Gender Equality,6,35,Yes,2025,5,May,Nizhny Tagil,Nizhny Tagil,,Public Space
+46,2025-06-03,Public Event,Youth Policy,5,29,Yes,2025,6,June,Pervouralsk,Pervouralsk,,Community Center
+47,2025-06-05,Media Activity,Healthcare,4,11,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+48,2025-06-08,Educational Event,Local Government,4,5,No,2025,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+49,2025-06-13,Campaign Activity,Gender Equality,4,30,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+50,2025-06-15,Campaign Activity,Housing,3,27,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+51,2025-06-17,Public Event,Transport,1,8,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+52,2025-06-22,Public Event,Education,4,32,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+53,2025-06-23,Campaign Activity,Youth Policy,5,27,Yes,2025,6,June,Pervouralsk,Pervouralsk,,Community Center
+54,2025-06-24,Campaign Activity,Education,4,13,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+55,2025-06-26,Media Activity,Social Policy,2,17,Yes,2025,6,June,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+56,2025-07-02,Public Event,Youth Policy,1,31,Yes,2025,7,July,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+57,2025-07-04,Meeting,Entrepreneurship,2,11,No,2025,7,July,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+58,2025-07-05,Meeting,Entrepreneurship,5,11,No,2025,7,July,Pervouralsk,Pervouralsk,,Community Center
+59,2025-07-19,Campaign Activity,Housing,2,27,Yes,2025,7,July,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+60,2025-07-28,Meeting,Transport,3,28,No,2025,7,July,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+61,2025-07-29,Community Outreach,Gender Equality,4,19,Yes,2025,7,July,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+62,2025-07-30,Meeting,Education,6,23,No,2025,7,July,Nizhny Tagil,Nizhny Tagil,,Public Space
+63,2025-08-07,Educational Event,Healthcare,3,7,No,2025,8,August,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+64,2025-08-14,Public Event,Economic Policy,1,23,Yes,2025,8,August,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+65,2025-08-17,Community Outreach,Housing,1,15,Yes,2025,8,August,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+66,2025-08-18,Educational Event,Local Government,3,18,No,2025,8,August,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+67,2025-08-24,Public Event,Entrepreneurship,3,22,Yes,2025,8,August,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+68,2025-08-26,Community Outreach,Transport,4,14,Yes,2025,8,August,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+69,2025-09-03,Community Outreach,Social Policy,2,34,Yes,2025,9,September,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+70,2025-09-05,Community Outreach,Transport,3,10,Yes,2025,9,September,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+71,2025-09-07,Public Event,Entrepreneurship,2,16,Yes,2025,9,September,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+72,2025-09-13,Meeting,Transport,8,17,No,2025,9,September,Serov,Serov,,Public Space
+73,2025-09-29,Meeting,Education,1,23,No,2025,9,September,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+74,2025-10-02,Educational Event,Youth Policy,10,30,No,2025,10,October,Asbest,Asbest,,Public Space
+75,2025-10-12,Campaign Activity,Youth Policy,5,22,Yes,2025,10,October,Pervouralsk,Pervouralsk,,Community Center
+76,2025-10-24,Community Outreach,Education,7,28,Yes,2025,10,October,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+77,2025-10-27,Public Event,Social Policy,2,24,Yes,2025,10,October,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+78,2025-10-29,Public Event,Housing,5,5,Yes,2025,10,October,Pervouralsk,Pervouralsk,,Community Center
+79,2025-10-30,Public Event,Economic Policy,4,20,Yes,2025,10,October,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+80,2025-11-01,Community Outreach,Youth Policy,2,26,Yes,2025,11,November,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+81,2025-11-02,Meeting,Gender Equality,4,27,No,2025,11,November,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+82,2025-11-04,Meeting,Economic Policy,1,12,No,2025,11,November,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+83,2025-11-13,Meeting,Transport,5,20,No,2025,11,November,Pervouralsk,Pervouralsk,,Community Center
+84,2025-11-16,Educational Event,Healthcare,1,23,No,2025,11,November,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+85,2025-11-21,Government Interaction,Entrepreneurship,1,28,No,2025,11,November,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+86,2025-11-28,Government Interaction,Transport,7,20,No,2025,11,November,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+87,2025-11-30,Government Interaction,Education,1,26,No,2025,11,November,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+88,2025-12-02,Campaign Activity,Local Government,2,31,Yes,2025,12,December,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+89,2025-12-08,Community Outreach,Healthcare,7,5,Yes,2025,12,December,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+90,2025-12-21,Campaign Activity,Youth Policy,4,12,Yes,2025,12,December,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+91,2025-12-24,Campaign Activity,Housing,2,19,Yes,2025,12,December,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+92,2025-12-27,Community Outreach,Transport,2,29,Yes,2025,12,December,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+93,2025-12-28,Community Outreach,Youth Policy,9,8,Yes,2025,12,December,Revda,Revda,,Community Center
+94,2025-12-31,Meeting,Housing,4,32,No,2025,12,December,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+95,2026-01-01,Educational Event,Local Government,10,29,No,2026,1,January,Asbest,Asbest,,Public Space
+96,2026-01-03,Survey,Housing,1,31,No,2026,1,January,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+97,2026-01-04,Community Outreach,Social Policy,3,18,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+98,2026-01-07,Community Outreach,Local Government,3,24,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+99,2026-01-09,Community Outreach,Transport,1,28,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+100,2026-01-12,Government Interaction,Education,5,13,No,2026,1,January,Pervouralsk,Pervouralsk,,Community Center
+101,2026-01-13,Community Outreach,Economic Policy,7,20,Yes,2026,1,January,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+102,2026-01-18,Public Event,Gender Equality,3,24,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+103,2026-01-24,Media Activity,Social Policy,4,44,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+104,2026-01-26,Meeting,Local Government,9,23,No,2026,1,January,Revda,Revda,,Community Center
+105,2026-01-29,Survey,Economic Policy,6,24,No,2026,1,January,Nizhny Tagil,Nizhny Tagil,,Public Space
+106,2026-01-30,Community Outreach,Youth Policy,1,11,Yes,2026,1,January,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+107,2026-02-03,Meeting,Entrepreneurship,9,13,No,2026,2,February,Revda,Revda,,Community Center
+108,2026-02-17,Media Activity,Local Government,1,20,Yes,2026,2,February,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+109,2026-02-28,Educational Event,Youth Policy,4,6,No,2026,2,February,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+110,2026-03-02,Meeting,Entrepreneurship,1,35,No,2026,3,March,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+111,2026-03-09,Survey,Social Policy,2,29,No,2026,3,March,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+112,2026-03-13,Educational Event,Healthcare,3,5,No,2026,3,March,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+113,2026-03-17,Campaign Activity,Housing,4,26,Yes,2026,3,March,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+114,2026-03-18,Meeting,Economic Policy,9,8,No,2026,3,March,Revda,Revda,,Community Center
+115,2026-03-23,Public Event,Youth Policy,2,22,Yes,2026,3,March,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+116,2026-03-29,Media Activity,Entrepreneurship,1,8,Yes,2026,3,March,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+117,2026-04-02,Campaign Activity,Transport,4,15,Yes,2026,4,April,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+118,2026-04-06,Government Interaction,Transport,8,23,No,2026,4,April,Serov,Serov,,Public Space
+119,2026-04-09,Public Event,Housing,1,45,Yes,2026,4,April,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+120,2026-04-11,Meeting,Education,3,12,No,2026,4,April,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+121,2026-04-14,Campaign Activity,Housing,3,11,Yes,2026,4,April,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+122,2026-04-15,Meeting,Gender Equality,9,23,No,2026,4,April,Revda,Revda,,Community Center
+123,2026-04-18,Public Event,Social Policy,8,34,Yes,2026,4,April,Serov,Serov,,Public Space
+124,2026-04-19,Media Activity,Healthcare,8,23,Yes,2026,4,April,Serov,Serov,,Public Space
+125,2026-04-22,Campaign Activity,Entrepreneurship,2,28,Yes,2026,4,April,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+126,2026-04-24,Meeting,Youth Policy,2,11,No,2026,4,April,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+127,2026-05-01,Community Outreach,Education,5,18,Yes,2026,5,May,Pervouralsk,Pervouralsk,,Community Center
+128,2026-05-03,Public Event,Transport,7,19,Yes,2026,5,May,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+129,2026-05-04,Media Activity,Local Government,5,16,Yes,2026,5,May,Pervouralsk,Pervouralsk,,Community Center
+130,2026-05-05,Educational Event,Gender Equality,5,13,No,2026,5,May,Pervouralsk,Pervouralsk,,Community Center
+131,2026-05-09,Government Interaction,Economic Policy,1,24,No,2026,5,May,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+132,2026-05-11,Campaign Activity,Healthcare,9,10,Yes,2026,5,May,Revda,Revda,,Community Center
+133,2026-05-15,Community Outreach,Social Policy,7,19,Yes,2026,5,May,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+134,2026-05-16,Survey,Economic Policy,3,21,No,2026,5,May,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+135,2026-05-17,Community Outreach,Healthcare,8,18,Yes,2026,5,May,Serov,Serov,,Public Space
+136,2026-05-18,Community Outreach,Gender Equality,7,24,Yes,2026,5,May,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+137,2026-05-21,Campaign Activity,Education,4,29,Yes,2026,5,May,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+138,2026-05-29,Campaign Activity,Entrepreneurship,1,31,Yes,2026,5,May,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+139,2026-05-31,Survey,Local Government,1,24,No,2026,5,May,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+140,2026-06-02,Government Interaction,Youth Policy,9,27,No,2026,6,June,Revda,Revda,,Community Center
+141,2026-06-06,Meeting,Local Government,3,20,No,2026,6,June,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+142,2026-06-09,Campaign Activity,Gender Equality,1,15,Yes,2026,6,June,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+143,2026-06-13,Meeting,Entrepreneurship,2,13,No,2026,6,June,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+144,2026-06-15,Community Outreach,Economic Policy,1,29,Yes,2026,6,June,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+145,2026-06-17,Educational Event,Social Policy,3,18,No,2026,6,June,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+146,2026-06-19,Public Event,Youth Policy,6,35,Yes,2026,6,June,Nizhny Tagil,Nizhny Tagil,,Public Space
+147,2026-06-24,Meeting,Local Government,6,29,No,2026,6,June,Nizhny Tagil,Nizhny Tagil,,Public Space
+148,2026-06-26,Government Interaction,Transport,4,20,No,2026,6,June,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+149,2026-06-27,Campaign Activity,Transport,9,14,Yes,2026,6,June,Revda,Revda,,Community Center
+150,2026-06-30,Meeting,Local Government,1,28,No,2026,6,June,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office

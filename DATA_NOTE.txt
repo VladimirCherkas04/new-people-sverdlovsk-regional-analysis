@@ -1,0 +1,1 @@
+IMPORTANT: This dataset is SYNTHETIC and created for a public portfolio project. It does not contain real internal data, personal data, or confidential information from the New People political party or its Sverdlovsk Regional Branch. The structure is designed to simulate an organizational political-activity dataset for demonstrating SQL, Python, and Tableau skills.

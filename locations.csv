@@ -1,0 +1,11 @@
+location_id,municipality,city,district,location_type
+1,Yekaterinburg,Yekaterinburg,Oktyabrsky,Office
+2,Yekaterinburg,Yekaterinburg,Leninsky,Public Space
+3,Yekaterinburg,Yekaterinburg,Verkh-Isetsky,Community Center
+4,Yekaterinburg,Yekaterinburg,Kirovsky,Public Space
+5,Pervouralsk,Pervouralsk,,Community Center
+6,Nizhny Tagil,Nizhny Tagil,,Public Space
+7,Kamensk-Uralsky,Kamensk-Uralsky,,Community Center
+8,Serov,Serov,,Public Space
+9,Revda,Revda,,Community Center
+10,Asbest,Asbest,,Public Space
