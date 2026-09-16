@@ -93,5 +93,3 @@ new-people-sverdlovsk-regional-analysis/
 │
 ├── tableau/
 │   └── political_activity_analysis.twb
-│
-└── visualizations/
